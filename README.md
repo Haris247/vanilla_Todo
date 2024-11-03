@@ -1,0 +1,1 @@
+this is vanila javascript TODO with local storage
